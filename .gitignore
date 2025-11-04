@@ -1,0 +1,62 @@
+# Virtual Environment
+clean_env/
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files that are too large
+*.nc
+*.tif
+bundle_cutouts_southamerica/
+data/cutout-2013-era5.nc
+data/elevation.nc
+data/land_cover.tif
+data/natural_protection_areas.tif
+data/bundle_cutouts_southamerica.zip
+
+# Temporary files
+*.tmp
+*.temp
+*.log
