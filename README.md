@@ -194,6 +194,14 @@ This analysis was conducted as part of the **Data Science for Energy System Mode
 - **Optimization Modeling** for system design
 - **Scenario Analysis** for policy evaluation
 
+### Course Materials and Methods
+
+The methodologies and techniques used in this analysis are based on the course materials from:
+
+**Data Science for Energy System Modelling** by Dr. Fabian Neumann  
+Course repository: https://github.com/fneum/data-science-for-esm  
+TU Berlin - Department of Digital Transformation of Energy Systems
+
 ## Future Work
 
 Potential extensions of this analysis include:
